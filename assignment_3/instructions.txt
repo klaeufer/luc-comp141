@@ -19,7 +19,7 @@ command to another.
 If you are reading these instructions, it means you have
 successfully executed the "git" command to clone the
 "assignment_3" branch of the project hosted at
-"https://github.com/danielmoreira/luc-comp141" to your
+"https://github.com/klaeufer/luc-comp141" to your
 local Unix-like system. FYI, we will learn Git toward the
 end of the course.
 
@@ -102,7 +102,7 @@ named "comp141_assign3/test_list.txt". Use the "long" and
 3.10. Remove the "images" folder completely and save the output of the
 "tree" command inside a text file name "comp141_assign3/tree.txt".
 
-3.11. Submit your answers to Sakai (https://sakai.luc.edu/x/FHTQb1)
+3.11. Submit your answers to Sakai (https://sakai.luc.edu/x/yzCVqm)
 by using the available text box and the "Attachments" feature of "Homework 3".
 Type in the text box the following information:
 * Line 1: your UVID.
