@@ -17,7 +17,7 @@ abilities to use vi to manipulate large text files.
 If you are reading these instructions, it means you have
 successfully executed the "git" command to clone the
 "assignment_5" branch of the project hosted at
-"https://github.com/danielmoreira/luc-comp141" to your
+"https://github.com/klaeufer/luc-comp141" to your
 local Unix-like system. FYI, we will learn Git toward the
 end of the course.
 
